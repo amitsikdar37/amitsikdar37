@@ -31,5 +31,5 @@ I build things end-to-end and document the engineering process publicly.
 
 ### Find Me Around
 - **YouTube:** [@AmitBuilds-y4y](https://www.youtube.com/@AmitBuilds-y4y) (project breakdowns & devlogs)
-- **LinkedIn:** [linkedin.com/in/amitsikdar37](https://www.linkedin.com/in/amitsikdar37)
+- **LinkedIn:** [linkedin.com/in/amitsikdar](www.linkedin.com/in/amit-sikdar-b1b6212a0)
 - **Email:** sikdara477@gmail.com
